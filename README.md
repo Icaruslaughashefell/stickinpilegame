@@ -84,8 +84,5 @@ Then just:
 ## 👩‍💻 Coded with Love (and Vengeance)
 
 Because sometimes, you just wanna beat a Python script at its own game 🫶
-If you have ideas for ✨hard mode✨, cursed dialogue, or multiplayer chaos, PRs are welcome!
 
 ---
-
-Would you like it in markdown format so you can copy-paste directly into your file, or want me to help push it to a GitHub repo next? 🧸💻
