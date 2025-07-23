@@ -67,10 +67,10 @@ If you change the max pull amount (say, pulling 3 sticks instead of 2), **the AI
 
 ---
 
-## 🐣 Play the Game Like a Pro
+## 🐣 Play the Game
 
 ```bash
-python stick_game.py
+python stickgame.py
 ```
 
 Then just:
